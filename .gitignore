@@ -1,0 +1,12 @@
+# Không đẩy dữ liệu và môi trường ảo
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+logs/*
+!logs/.gitkeep
